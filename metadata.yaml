@@ -1,0 +1,40 @@
+_repo: William-Shakespeare-A-Critical-Study_50724
+contributor:
+  translators:
+  - agent_name: White, Diana
+    gutenberg_agent_id: '44423'
+    url: http://www.gutenberg.org/2009/agents/44423
+  - agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+  - agent_name: Morrison, Mary
+    gutenberg_agent_id: '46059'
+    url: http://www.gutenberg.org/2009/agents/46059
+creator:
+  author:
+    agent_name: Brandes, Georg
+    aliases:
+    - Brandes, George
+    - Brandes, Georg Morris Cohen
+    - Brandes, G. (Georg)
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '2674'
+    url: http://www.gutenberg.org/2009/agents/2674
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
+description: ''
+gutenberg_issued: '2015-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'William Shakespeare
+
+  A Critical Study'
+url: http://www.gutenberg.org/ebooks/50724
