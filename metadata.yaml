@@ -1,4 +1,5 @@
 _repo: William-Shakespeare-A-Critical-Study_50724
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: White, Diana
@@ -13,6 +14,9 @@ contributor:
   - agent_name: Morrison, Mary
     gutenberg_agent_id: '46059'
     url: http://www.gutenberg.org/2009/agents/46059
+covers:
+- cover_type: archival
+  image_path: 50724-h/images/cover.jpg
 creator:
   author:
     agent_name: Brandes, Georg
@@ -26,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2674
     wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50724#William-Shakespeare-A-Critical-Study
 gutenberg_issued: '2015-12-20'
 gutenberg_type: Text
 identifiers:
